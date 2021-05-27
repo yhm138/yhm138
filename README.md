@@ -8,11 +8,11 @@
 [![码云](https://img.shields.io/badge/码云-查看-yellow)](https://gitee.com/yhm138)
 
 <b>
-    <image src="https://github-readme-stats.vercel.app/api?username=yhm138&show_icons=true&theme=tokyonight" width=400>
+    <image src="https://github-readme-stats.vercel.app/api?username=yhm138&show_icons=true&theme=tokyonight" width=400 height=800>
     </image>
 </b>
 <b>
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhm138&layout=compact&theme=tokyonight&hide=html" width=400></image>
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhm138&layout=compact&theme=tokyonight&hide=html" width=400 height=800></image>
 </b>
 
 <br></br>
