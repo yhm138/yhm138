@@ -21,5 +21,6 @@
 <image src="https://github-profile-trophy.vercel.app/?username=yhm138&theme=dracula"/>
 <br></br>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
+
+![skills](https://skillicons.dev/icons?i=androidstudio,angular,arduino,atom,aws,azure,bash,bootstrap,bsd,c,cs,cpp,cassandra,clojure,cmake,css,dart,discord,django,docker,dotnet,eclipse,electron,elixir,fastapi,flask,flutter,fortran,gcp,git,github,gitlab,go,gradle,grafana,graphql,haskell,hibernate,html,idea,java,js,jenkins,jquery,julia,kotlin,kubernetes,latex,linux,lua,md,matlab,maven,mongodb,mysql,nginx,nodejs,octave,perl,php,postgres,prometheus,py,pytorch,qt,r,raspberrypi,react,redis,regex,rocket,ruby,rust,sqlite,stackoverflow,scala,selenium,svg,swift,tensorflow,ts,vim,visualstudio,vue)
 
