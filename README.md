@@ -8,6 +8,7 @@
 [![链滴](https://img.shields.io/badge/链滴-查看-orange)](https://ld246.com/member/aspen138)
 [![腾讯云+](https://img.shields.io/badge/腾讯云%2B-查看-lightgrey)](https://cloud.tencent.com/developer/user/8290955)
 [![码云](https://img.shields.io/badge/码云-查看-yellow)](https://gitee.com/yhm138)
+![](https://views.whatilearened.today/views/github/yhm138/yhm138.svg)
 
 &emsp;
 
